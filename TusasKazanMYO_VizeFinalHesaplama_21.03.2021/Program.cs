@@ -107,7 +107,7 @@ namespace TusasKazanMYO_VizeFinalHesaplama_21._03._2021
                     }
                 }
                 
-                mevcut[i] = Console.ReadLine();
+                
                 
             }
             Console.ReadKey();
